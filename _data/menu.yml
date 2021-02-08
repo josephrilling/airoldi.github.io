@@ -1,17 +1,17 @@
-- title: "Research"
-  href: "/research/"
+#- title: "Research"
+#  href: "/research/"
 
-- title: "Teaching"
-  href: "/teaching/"
+#- title: "Teaching"
+#  href: "/teaching/"
   
-- title: "Bio"
-  href: "/bio/"
+#- title: "Bio"
+#  href: "/bio/"
 
-#- title: "CV"
-#  href: "/cv/"
+- title: "CV"
+  href: "/cv/"
 
-#- title: "Blog"
-#  href: "/blog/"
+- title: "Blog"
+  href: "/blog/"
 
 #- title: "Miscellany"
 #  href: "/miscellany/"
