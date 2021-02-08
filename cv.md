@@ -4,8 +4,8 @@ title: CV
 permalink: /cv/
 ---
 
-I embed a current version of my CV below. You can also [download the PDF here]({{site.url}}/files/CV_Volfovsky.pdf).
+I embed a current version of my CV below. You can also [download the PDF here]({{site.url}}/files/resume.pdf).
 
-{% include embedpdf.html code="https://volfovsky.github.io/files/CV_Volfovsky.pdf" width=100 height=800 %}
+{% include embedpdf.html code="https://josephrilling.github.io/files/resume.pdf" width=100 height=800 %}
 
 
