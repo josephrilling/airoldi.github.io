@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-There is a non-neglibile chance of a blog materalizing in this space in the near future.
+I will most likely put short posts (5 minute reads) on this page in the future. I will write about some of my research interests, potential future studies, and a bunch of other topics that I find cool or worthwhile.
 
 <ul class="listing">
 {% for post in site.posts %}
