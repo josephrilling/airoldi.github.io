@@ -5,6 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Presdiential Fellow, Fox School of Business, Temple University
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://josephrilling.github.io" # the base hostname & protocol for your site
+linkedin: "www.linkedin.com/in/joseph-rilling"
 #google_scholar_id: XKCyZk0AAAAJ&hl
 #arxiv_url:  "https://arxiv.org/a/airoldi_e_1"
 # github_username:  airoldi
