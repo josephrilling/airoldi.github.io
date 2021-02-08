@@ -1,7 +1,7 @@
 Edo's basic Jekyll Theme
 =====================================
 
-This is my custom Jekyll theme, very slightly modified from svmiller.github.io and volfovsky.github.io, plus new Academicons 1.9.1.
+This is Edo Airoldi's custom Jekyll theme, very slightly modified from svmiller.github.io and volfovsky.github.io, plus new Academicons 1.9.1.
 
 Much of what is contained in here is derivative of those two works. That said, do observe the `embedpdf.html` and `image.html` files in the `_includes` directory. `embedpdf.html` uses Google Docs to allow for embedding of PDF files hosted on Dropbox. `image.html` provides fancier images than what is standard for Markdown. An example use of `embedpdf.html` can be observed in the `cv.md` file. An example use of `image.html` can be observed in the `about.md` file.
 
