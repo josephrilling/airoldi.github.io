@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "First post"
-date:   2017-01-18
+title:  "Zeno's Paradox"
+date:   2021-07-05
 categories: generic
 ---
-I have embedded a current version of my CV below. You can also download the PDF here.
+You can download the PDF of this blog post here.
 
 {% include embedpdf.html code="https://josephrilling.github.io/files/zeno_s_paradox.pdf" width=100 height=800 %}
