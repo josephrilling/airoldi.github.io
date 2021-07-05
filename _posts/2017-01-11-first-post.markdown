@@ -6,4 +6,4 @@ categories: generic
 ---
 You can download the PDF of this blog post here.
 
-{% include embedpdf.html code="https://josephrilling.github.io/files/zeno_s_paradox.pdf" width=100 height=800 %}
+{% include embedpdf.html code="https://josephrilling.github.io/files/Zeno_s_Paradox.pdf" width=100 height=800 %}
